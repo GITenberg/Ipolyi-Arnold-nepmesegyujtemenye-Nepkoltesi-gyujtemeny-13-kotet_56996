@@ -1,0 +1,27 @@
+_repo: Ipolyi-Arnold-nepmesegyujtemenye-Nepkoltesi-gyujtemeny-13-kotet_56996
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ipolyi, Arnold
+    gutenberg_agent_id: '49133'
+    url: http://www.gutenberg.org/2009/agents/49133
+  editors:
+  - agent_name: Sebestyén, Gyula
+    gutenberg_agent_id: '49135'
+    url: http://www.gutenberg.org/2009/agents/49135
+  - agent_name: Kálmány, Lajos
+    gutenberg_agent_id: '49134'
+    url: http://www.gutenberg.org/2009/agents/49134
+description: ''
+gutenberg_issued: '2018-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56996'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ipolyi Arnold népmesegyüjteménye (Népköltési gyüjtemény 13. kötet)
+url: http://www.gutenberg.org/ebooks/56996
